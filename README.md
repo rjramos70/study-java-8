@@ -1,2 +1,2 @@
 # Study Java 8 Project
-This project was create just study about Java 8 improvement
+This project was created only for the study of improvements in Java 8
